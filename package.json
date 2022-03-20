@@ -1,0 +1,25 @@
+{
+  "name": "my-javascript-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onuoha/my-javascript-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onuoha/my-javascript-action/issues"
+  },
+  "homepage": "https://github.com/onuoha/my-javascript-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "actions": "^1.3.0",
+    "github": "^14.0.0"
+  }
+}
